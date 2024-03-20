@@ -21,6 +21,8 @@ https://documentation.red-gate.com/dms6/data-masker-help/sample-masking-sets-and
 
 # Solution (Queries)
 
+![image](https://github.com/kunlekuyoro/SQL-Project/assets/126311485/f34bbc06-8265-47ad-bfb4-9865605474ec)
+
 ---Question 1
 
 SELECT CategoryName, Description FROM Categories ORDER BY CategoryName;
